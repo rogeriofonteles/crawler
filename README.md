@@ -1,2 +1,2 @@
 # crawler
-A crawler for gathering imobiliary data 
+A crawler for gathering real estate data 
