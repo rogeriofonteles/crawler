@@ -1,2 +1,2 @@
 # crawler
-A crawler for gathering real estate data 
+Um crawler para baixar porn da internets.
